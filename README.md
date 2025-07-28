@@ -1,7 +1,11 @@
-# **PROJETO (CONTROLE DE FLUXO)**
+# **PROJETO (CONTROLE DE CANDIDAATOS)**
 
-### **Simula UM CONTROLE DE CANDIDATOS PARA UMA VAGA DE EMPREGO ONDE A BASE É O SALARIO PRETENDIDO DO CANDIDATO**
+### **SIMULA UM CONTROLE DE CANDIDATOS PARA UMA VAGA DE EMPREGO ONDE A BASE É O SALARIO PRETENDIDO DO CANDIDATO**
 
-## **Introdução**
+## **detalher importantes**
+# A simulação é feita apenas no terminal do java, onde pode se comparar quais candidatos irão receber ligações para a vaga e quais não, existe tambem no código um sistema de *tentativas* onde irá aparecer para o *RH* da empresa quantas tentativas sucedidas foram feitas!
 
-- Desafio do curso Trilha Java Básico da [DIO](https://www.dio.me) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
+## Ferramentas utilizadas
+
+- `Java`
+- `IDE IntelliJ`
